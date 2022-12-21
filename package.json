@@ -1,0 +1,22 @@
+{
+  "name": "02-serlokas",
+  "version": "1.0.0",
+  "description": "Pirmasis HTML dizainas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server, --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  },
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
